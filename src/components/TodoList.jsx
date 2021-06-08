@@ -13,7 +13,7 @@ export default class TodoList extends Component {
             handleDeleteDoneTasks
         } = this.props
 
-            {/* Wrapping up similar elements */}
+            /* Wrapping up similar elements */
         return (
             <Fragment>
                 <h3 className="text-center">
